@@ -53,7 +53,7 @@ GEM
     bindex (0.5.0)
     builder (3.2.3)
     byebug (10.0.2)
-    capistrano (3.10.1)
+    capistrano (3.10.2)
       airbrussh (>= 1.0.0)
       i18n
       rake (>= 10.0.0)
