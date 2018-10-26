@@ -6,7 +6,7 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 gem 'rails', '~> 5.2.1'
 gem 'pg'
 gem 'puma', '~> 3.7'
-gem 'rugged', '0.27.0'
+gem 'rugged', '0.27.5'
 gem 'unf'
 gem 'turbolinks', '~> 5'
 gem 'actionpack-page_caching', '~> 1.1'
