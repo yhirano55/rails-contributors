@@ -33,7 +33,7 @@ group :deployment do
   gem 'capistrano-rails', '~> 1.1', require: false
   gem 'capistrano-rvm', '0.1.1',    require: false
   gem 'capistrano3-puma', '~> 3.1', require: false
-  gem 'rbnacl', '>= 3.2', '< 5.0'
+  gem 'rbnacl', '>= 3.2', '< 8.0'
   gem 'rbnacl-libsodium'
   gem 'bcrypt_pbkdf', '>= 1.0', '< 2.0'
   gem 'ed25519'
